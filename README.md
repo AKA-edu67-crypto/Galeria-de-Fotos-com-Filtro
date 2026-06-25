@@ -2,13 +2,13 @@
 
 A JavaScript project created to practice API consumption using `fetch`, `async/await`, and dynamic URL parameters.
 
-## 🚀 Goal
+## Goal
 
 Build a photo gallery where users can switch between different albums by clicking buttons. When an album is selected, the application fetches its photos from an API and displays them dynamically on the page.
 
 ---
 
-## 🧠 Concepts Practiced
+## Concepts Practiced
 
 - Async/Await
 - Fetch API
@@ -78,7 +78,7 @@ https://jsonplaceholder.typicode.com/photos?albumId=2
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 This project helped reinforce several important concepts used in real-world applications:
 
@@ -90,7 +90,7 @@ This project helped reinforce several important concepts used in real-world appl
 
 ---
 
-## 📚 Example API Response
+## Example API Response
 
 ```json
 {
@@ -104,7 +104,7 @@ This project helped reinforce several important concepts used in real-world appl
 
 ---
 
-## 🎯 Final Result
+## Final Result
 
 Users can switch between albums and view different photo collections without reloading the page.
 
